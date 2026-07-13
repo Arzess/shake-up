@@ -30,9 +30,9 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/Arzess/shake-up">
+  <!-- <a href="https://github.com/Arzess/shake-up">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
+  </a> -->
 
 <h3 align="center">ShakeUp</h3>
 
@@ -84,6 +84,12 @@
 ## About The Project
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
+
+ShakeUp is a mobile application we developed as a group of aspiring developers to help you look up nutritional values and compatibility with diets of your drinks and shakes. Moreover, you can save your drinks, name them, and share them with your friends and people you know. 
+
+It was designed to be highly intuitive and easy to use. The app automatically checks the nutrients for you, makes a full table, and provides a summary of your drink as well as its compatibility with your diet. Because it doesn’t take much space on your phone, it must gather the data on nutrients online. Nevertheless, the nutritional value can be saved locally on your phone, so you can look it up even if there’s no reception.
+
+The design of the application is simple, minimalistic, vibrant, and sleek. Not to mention that it’s highly customizable in the settings. The piece de resistance of the app is the animations. The app features smooth, energetic, and almost gamified animations. Not a big fan? Not a problem – you can always turn them off in the settings.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
