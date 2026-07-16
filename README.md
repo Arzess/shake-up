@@ -68,13 +68,7 @@
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
-ShakeUp is a mobile application developed to help users look up nutritional values and diet compatibility of drinks, shakes, and beverages from licensed sources. It takes the mental load of calculations off those interested in food tracking and provides a clean, clear summary of nutritional composition. Aside from a summary, the user can see a table that provides an extensive overview of minerals, vitamins, and macronutrients, along with their respective daily values.
-
-The app stands out thanks to well-suited, energetic animations accompanied by cartoonish sound effects and a simple, modern, minimalist, sleek, and vibrant design. It facilitates frictionless execution of beverage-building tasks with a reduced cognitive load. Suited for an on-the-go lifestyle of people who place a high value on their nourishment.
-
-Architecturally, the app is lightweight, fetching database information on the fly while offering local caching so users can access saved foods offline. If an item is missing from the database, users can manually log custom ingredients. The app is open-source. It doesn’t store or process user-related information anywhere but locally.
-
-Through the app, users can create their own drinks, organize them into collections, create random “surprise” shakes, and easily share their made concoctions with friends.
+ShakeUp is an open-source, lightweight mobile app designed to help health-conscious users easily track and analyze the nutritional value of their beverages. It features a sleek, minimalist, and vibrant design complete with energetic animations, making it simple to build custom drinks, organize collections, and share recipes. To ensure user privacy, the app operates entirely on-the-go, fetching data dynamically and storing all information strictly on the local device.
 
 ### Documentation
 
